@@ -1,0 +1,11 @@
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\bin\Debug\net10.0\ThreadDemo.Domain.deps.json
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\bin\Debug\net10.0\ThreadDemo.Domain.dll
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\bin\Debug\net10.0\ThreadDemo.Domain.pdb
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\ThreadDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\ThreadDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\ThreadDemo.Domain.AssemblyInfo.cs
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\ThreadDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\ThreadDemo.Domain.dll
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\refint\ThreadDemo.Domain.dll
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\ThreadDemo.Domain.pdb
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\ThreadDemo\ThreadDemo.Domain\obj\Debug\net10.0\ref\ThreadDemo.Domain.dll

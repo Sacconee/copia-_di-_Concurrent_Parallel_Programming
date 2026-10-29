@@ -1,0 +1,11 @@
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\bin\Debug\net10.0\Labs.Console.deps.json
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\bin\Debug\net10.0\Labs.Console.dll
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\bin\Debug\net10.0\Labs.Console.pdb
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\Labs.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\Labs.Console.AssemblyInfoInputs.cache
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\Labs.Console.AssemblyInfo.cs
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\Labs.Console.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\Labs.Console.dll
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\refint\Labs.Console.dll
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\Labs.Console.pdb
+C:\Users\lorenzo.sacchetti\Desktop\copia-_di-_Concurrent_Parallel_Programming\src\Shared\Labs.Console\obj\Debug\net10.0\ref\Labs.Console.dll
