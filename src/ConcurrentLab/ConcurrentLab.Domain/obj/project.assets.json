@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\francesco.piraccini\\.nuget\\packages\\": {},
+    "C:\\Users\\lorenzo.sacchetti\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\ConcurrentLab\\ConcurrentLab.Domain\\ConcurrentLab.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\ConcurrentLab\\ConcurrentLab.Domain\\ConcurrentLab.Domain.csproj",
       "projectName": "ConcurrentLab.Domain",
-      "projectPath": "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\ConcurrentLab\\ConcurrentLab.Domain\\ConcurrentLab.Domain.csproj",
-      "packagesPath": "C:\\Users\\francesco.piraccini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\ConcurrentLab\\ConcurrentLab.Domain\\obj\\",
+      "projectPath": "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\ConcurrentLab\\ConcurrentLab.Domain\\ConcurrentLab.Domain.csproj",
+      "packagesPath": "C:\\Users\\lorenzo.sacchetti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\ConcurrentLab\\ConcurrentLab.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\francesco.piraccini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lorenzo.sacchetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
