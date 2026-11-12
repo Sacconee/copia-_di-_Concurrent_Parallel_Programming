@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj": {}
+    "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj": {
+    "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj",
         "projectName": "SynchronizationDemo.Domain",
-        "projectPath": "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj",
-        "packagesPath": "C:\\Users\\lorenzo.sacchetti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lorenzo.sacchetti\\Desktop\\copia-_di-_Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\obj\\",
+        "projectPath": "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj",
+        "packagesPath": "C:\\Users\\francesco.piraccini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\francesco.piraccini\\Desktop\\Concurrent_Parallel_Programming\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lorenzo.sacchetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\francesco.piraccini\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
