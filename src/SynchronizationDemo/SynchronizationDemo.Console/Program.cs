@@ -1,6 +1,8 @@
-﻿using SynchronizationDemo.Domain;
+﻿using System.Threading.Tasks.Dataflow;
+using SynchronizationDemo.Domain;
 
 var semaforo = new SemaphoreExperiment();
+var ProducersConsumers = new ProducerConsumerExperiment(); 
 
 bool termina = false;
 
@@ -19,6 +21,7 @@ while (!termina)
             break;
 
         case "2":
+            ProducersConsumers.Run();
             break;
 
         case "3":
