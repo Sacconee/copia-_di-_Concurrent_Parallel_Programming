@@ -60,6 +60,7 @@ public class ProducerConsumerExperiment
 
                 // Segnalare che è possibile d'ora in poi poter accedere a nuovi foodItens ai consumatori.
                 elementiDisponibili.Release();
+                Thread.Sleep(Random.Shared.Next(100, 250)); // i producer aspetteranno tempi diversi. 
             }
         }
 
