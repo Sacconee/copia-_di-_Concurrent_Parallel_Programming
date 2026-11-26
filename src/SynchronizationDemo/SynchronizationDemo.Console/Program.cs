@@ -11,6 +11,7 @@ while (!termina)
     Console.WriteLine();
     Console.WriteLine("=== SYNCHRONIZATION DEMO ===");
     Console.WriteLine("1. Semaforo");
+    Console.WriteLine("2. Producers Consumers");
     Console.WriteLine("0. Esci");
     Console.Write("Scelta: ");
 
